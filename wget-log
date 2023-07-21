@@ -1,0 +1,79 @@
+--2020-03-30 18:00:35--  https://sourceforge.net/projects/libpng/files/latest/download
+Resolving sourceforge.net (sourceforge.net)... 216.105.38.13
+Connecting to sourceforge.net (sourceforge.net)|216.105.38.13|:443... failed: Connection timed out.
+Retrying.
+
+--2020-03-30 18:02:44--  (try: 2)  https://sourceforge.net/projects/libpng/files/latest/download
+Connecting to sourceforge.net (sourceforge.net)|216.105.38.13|:443... failed: Connection timed out.
+Retrying.
+
+--2020-03-30 18:04:53--  (try: 3)  https://sourceforge.net/projects/libpng/files/latest/download
+Connecting to sourceforge.net (sourceforge.net)|216.105.38.13|:443... failed: Connection timed out.
+Retrying.
+
+--2020-03-30 18:07:03--  (try: 4)  https://sourceforge.net/projects/libpng/files/latest/download
+Connecting to sourceforge.net (sourceforge.net)|216.105.38.13|:443... failed: Connection timed out.
+Retrying.
+
+--2020-03-30 18:09:15--  (try: 5)  https://sourceforge.net/projects/libpng/files/latest/download
+Connecting to sourceforge.net (sourceforge.net)|216.105.38.13|:443... failed: Connection timed out.
+Retrying.
+
+--2020-03-30 18:11:27--  (try: 6)  https://sourceforge.net/projects/libpng/files/latest/download
+Connecting to sourceforge.net (sourceforge.net)|216.105.38.13|:443... failed: Connection timed out.
+Retrying.
+
+--2020-03-30 18:13:40--  (try: 7)  https://sourceforge.net/projects/libpng/files/latest/download
+Connecting to sourceforge.net (sourceforge.net)|216.105.38.13|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://downloads.sourceforge.net/project/libpng/libpng16/1.6.37/lpng1637.zip?r=&ts=1585584884&use_mirror=netix [following]
+--2020-03-30 18:14:44--  https://downloads.sourceforge.net/project/libpng/libpng16/1.6.37/lpng1637.zip?r=&ts=1585584884&use_mirror=netix
+Resolving downloads.sourceforge.net (downloads.sourceforge.net)... 216.105.38.13
+Connecting to downloads.sourceforge.net (downloads.sourceforge.net)|216.105.38.13|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://netix.dl.sourceforge.net/project/libpng/libpng16/1.6.37/lpng1637.zip [following]
+--2020-03-30 18:14:45--  https://netix.dl.sourceforge.net/project/libpng/libpng16/1.6.37/lpng1637.zip
+Resolving netix.dl.sourceforge.net (netix.dl.sourceforge.net)... 87.121.121.2
+Connecting to netix.dl.sourceforge.net (netix.dl.sourceforge.net)|87.121.121.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1766284 (1.7M) [application/octet-stream]
+Saving to: ‘download’
+
+     0K .......... .......... .......... .......... ..........  2%  114K 15s
+    50K .......... .......... .......... .......... ..........  5% 71.8K 18s
+   100K .......... .......... .......... .......... ..........  8%  444K 13s
+   150K .......... .......... .......... .......... .......... 11% 74.4K 15s
+   200K .......... .......... .......... .......... .......... 14% 33.7K 20s
+   250K .......... .......... .......... .......... .......... 17% 58.3K 20s
+   300K .......... .......... .......... .......... .......... 20% 47.4K 21s
+   350K .......... .......... .......... .......... .......... 23% 73.0K 20s
+   400K .......... .......... .......... .......... .......... 26% 32.1K 21s
+   450K .......... .......... .......... .......... .......... 28%  848K 19s
+   500K .......... .......... .......... .......... .......... 31% 63.1K 18s
+   550K .......... .......... .......... .......... .......... 34% 76.2K 17s
+   600K .......... .......... .......... .......... .......... 37% 69.8K 16s
+   650K .......... .......... .......... .......... .......... 40%  454K 14s
+   700K .......... .......... .......... .......... .......... 43% 70.9K 14s
+   750K .......... .......... .......... .......... .......... 46% 66.9K 13s
+   800K .......... .......... .......... .......... .......... 49% 72.2K 12s
+   850K .......... .......... .......... .......... .......... 52% 43.5K 12s
+   900K .......... .......... .......... .......... .......... 55%  769K 11s
+   950K .......... .......... .......... .......... .......... 57% 62.5K 10s
+  1000K .......... .......... .......... .......... .......... 60% 50.4K 10s
+  1050K .......... .......... .......... .......... .......... 63% 41.1K 9s
+  1100K .......... .......... .......... .......... .......... 66%  861K 8s
+  1150K .......... .......... .......... .......... .......... 69% 69.5K 7s
+  1200K .......... .......... .......... .......... .......... 72% 33.6K 7s
+  1250K .......... .......... .......... .......... .......... 75% 63.3K 6s
+  1300K .......... .......... .......... .......... .......... 78% 76.8K 6s
+  1350K .......... .......... .......... .......... .......... 81%  754K 5s
+  1400K .......... .......... .......... .......... .......... 84% 45.2K 4s
+  1450K .......... .......... .......... .......... .......... 86% 55.6K 3s
+  1500K .......... .......... .......... .......... .......... 89% 74.5K 3s
+  1550K .......... .......... .......... .......... .......... 92%  161K 2s
+  1600K .......... .......... .......... .......... .......... 95% 40.4K 1s
+  1650K .......... .......... .......... .......... .......... 98% 81.9K 0s
+  1700K .......... .......... ....                            100%  459K=25s
+
+2020-03-30 18:15:11 (69.2 KB/s) - ‘download’ saved [1766284/1766284]
+
